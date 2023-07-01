@@ -1,5 +1,4 @@
 # CF-Trans
-# I apologize for the confusion earlier. Here is the revised README content for the case when the paper has not been accepted yet:
 
 Welcome to Our Project!
 
